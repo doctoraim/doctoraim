@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+<div style="display:flex;">
+	<div class="left" style="width:200px;height:200px;background-color:pink;"></div>
+    <div class="right" style="width:200px;height:200px;background-color:black;"></div>
+
+</div>
